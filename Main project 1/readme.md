@@ -12,7 +12,7 @@ pandas, matplotlib, numpy, math, scipy, warnings
 ## Данные
 В наличии были следующие данные:
 
-- Name — название игры
+    Name — название игры
 - Platform — платформа
 - Year_of_Release — год выпуска
 - Genre — жанр игры
